@@ -1,2 +1,2 @@
 # Too-Much-Cites
-A modpack for building cities on 1.19.2
+A modpack for building cities with other stuff on 1.19.2
