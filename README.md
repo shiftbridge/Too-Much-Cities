@@ -1,5 +1,7 @@
 # Tech And Cities And Stuff
+<a href="https://shiftbridge.github.io/tacas-docs/">Official Wiki</a>
+<p style="text-align: center;">Minecraft 1.19.1 | ⚙️ GregTech CEu Modern | 🛠️ Work in Progress</p>
+<p style="text-align: center;">Minimum RAM: 4GB | Recommended: 6GB+</p>
+<h1 style="text-align: center;">What is Tech and Cities And Stuff?</h1>
 
-_A modpack for building cities with other stuff on 1.19.2_
-
-This modpack is a collection of lots of mods and their dependencies for making your own ultimate city in Minecraft. It includes amazing mods like Create, Mekanism, GregTech, and Applied Energistics 2, as well as great infrastructure mods like CityCraft and Minecraft Transit Railway.
+Tech And Cites And Stuff is a modpack that allows you to build cities with technological features. It includes mods like GregTech, Applied Energistics 2, Mekanism, Create, and ComputerCraft with other tools or mods in a city!
