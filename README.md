@@ -4,4 +4,4 @@
 <p style="text-align: center;">Minimum RAM: 4GB | Recommended: 6GB+</p>
 <h1 style="text-align: center;">What is Tech and Cities And Stuff?</h1>
 
-Tech And Cities And Stuff is a modpack that allows you to build cities with technological features. It includes mods like GregTech, Applied Energistics 2, Mekanism, Create, and ComputerCraft with other tools or mods in a city!
+Tech And Cities And Stuff is a modpack that allows you to build cities with technological features. It includes mods like GregTech, Applied Energistics 2, Mekanism, Create, and ComputerCraft with other tools or mods for a technological city!
