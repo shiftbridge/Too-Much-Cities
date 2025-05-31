@@ -1,5 +1,6 @@
 # Tech And Cities And Stuff
 <a href="https://youtube.com/@shiftbridge">ShiftBridge YouTube</a>
+|
 <a href="https://youtube.com/@Foo2k">Foo 2k Youtube
 <p style="text-align: center;">Minecraft 1.19.2 | Technology Mods | Work in Progress</p>
 <p style="text-align: center;">Minimum RAM: 4GB | Recommended: 6GB+</p>
